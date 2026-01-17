@@ -1,7 +1,5 @@
 # ESP8266-P10-Digital-Clock-WiFiManager-NTP  
-Sistem ini dirancang sebagai **jam digital berbasis ESP8266 dan Panel LED P10** yang mampu menampilkan waktu secara real-time menggunakan **sinkronisasi NTP (Network Time Protocol)**. Sistem dilengkapi dengan **WiFiManager non-blocking**, sehingga jam tetap berjalan meskipun portal konfigurasi WiFi aktif.  
-Jam ini cocok digunakan untuk **sekolah, masjid, ruang publik, laboratorium, maupun display informasi digital**.  
-[Frendi RoboTech]
+Sistem ini dirancang sebagai **jam digital berbasis ESP8266 dan Panel LED P10** yang mampu menampilkan waktu secara real-time menggunakan **sinkronisasi NTP (Network Time Protocol)**. Sistem dilengkapi dengan **WiFiManager non-blocking**, sehingga jam tetap berjalan meskipun portal konfigurasi WiFi aktif. Jam ini cocok digunakan untuk **sekolah, masjid, ruang publik, laboratorium, maupun display informasi digital**. [Frendi RoboTech]
 
 ---
 
@@ -136,12 +134,10 @@ Akses melalui browser:
 
 ---
 
-## 📧 Contacts Us
-* [Instagram – Frendi RoboTech](https://www.instagram.com/frendi.co/)
-* [WhatsApp : +62 878-8822-7410](https://wa.me/6287888227410)
-* Email:
-  * frendirobotech@gmail.com
-  * frendix45@gmail.com
+ ## 📧 **Contacs us :** 
+* [Frendi RoboTech](https://www.instagram.com/frendi.co/)
+* [Whatsapp : +6287888227410](https://wa.me/+6287888227410)
+* [Email    : frendirobotech@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=frendirobotech@gmail.com) atau [Email    : frendix45@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=frendix45@gmail.com)
 
 ---
 
